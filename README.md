@@ -29,7 +29,7 @@ I am a PhD candidate in **Accounting and Finance** (since early 2025) with a res
 
 ```mermaid
 flowchart LR
-    A["🏦 Banking<br/>career<br/>[X] years"] --> B["🎓 MSc Finance<br/>Finland"]
+    A["🏦 Banking<br/>career<br/>[5] years"] --> B["🎓 MSc Finance<br/>Finland"]
     B --> C["📜 CFA<br/>Level I passed"]
     C --> D["🔬 PhD<br/>Accounting & Finance<br/>2025"]
     D --> E["👩‍🏫 Teaching<br/>Bachelor → Master"]
@@ -88,10 +88,10 @@ I teach **four courses per year**, ranging from **Bachelor (first cycle)** to **
 
 | Course | Level | Since | Lecture | Seminar | Study project | Exam | Grading |
 |--------|:-----:|:-----:|:-------:|:-------:|:-------------:|:----:|:-------:|
-| [🧾 Financial Planning](courses/financial-planning/) | Bachelor (1st cycle) | 2026 | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [💰 Finance](courses/finance/) | [Bachelor / Master] | [2026] | ✅ | ✅ | [✅/➖] | ✅ | ✅ |
-| [🏢 Advanced Corporate Finance](courses/advanced-corporate-finance/) | Master (2nd cycle) | [2026] | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [📈 Quantitative Research Methods](courses/quantitative-research-methods/) | [Master] | [2026] | ✅ | ✅ | [✅/➖] | ✅ | ✅ |
+| [🧾 Financial Planning](courses/financial-planning/) | Bachelor | 2026 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [💰 Finance](courses/finance/) | Bachelor | 2026 | ✅ | ✅ | [✅/➖] | ✅ | ✅ |
+| [🏢 Advanced Corporate Finance](courses/advanced-corporate-finance/) | Master | 2026 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [📈 Quantitative Research Methods](courses/quantitative-research-methods/) | Master | 2026 | ✅ | ✅ | [✅/➖] | ✅ | ✅ |
 
 
 <details>
